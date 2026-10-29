@@ -1,119 +1,146 @@
-<div align="center">👋 Hi, I'm Piyush Sharma
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:172554,100:0F766E&text=Piyush%20Sharma&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20Agentic%20Systems&descSize=16&descAlignY=65&animation=fadeIn" width="100%" alt="Piyush Sharma — AI Engineer"/><br/><a href="https://github.com/aalu-leloo">
+<img src="https://img.shields.io/badge/GitHub-aalu--leloo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-0F766E?style=for-the-badge" alt="Generative AI"/><br/><br/>
 
-🤖 AI Engineer | Generative AI · LLMs · RAG · Agentic AI
+Building practical applications with AI and software.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Applications;Exploring+RAG+%26+LLM+Systems;Developing+AI+Agents;Learning+by+Building" alt="Typing SVG" /><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-FF9800?style=for-the-badge" /></div>---
+Learn by building. Improve through experimentation.
 
-🧑‍💻 About Me
+</div>---
 
-- 🎓 B.Tech student passionate about Artificial Intelligence and Machine Learning.
-- 🧠 Exploring Generative AI, Large Language Models, RAG, and Agentic AI.
-- 🛠️ Building practical AI assistants and intelligent applications.
-- 🐍 Working primarily with Python.
-- 🚀 Learning how to build reliable, scalable, and production-ready AI systems.
-- 🎯 Looking for opportunities to learn, contribute, and grow as an AI engineer.
+👨‍💻 About Me
+
+I'm a B.Tech student passionate about Artificial Intelligence, Generative AI, and software development.
+
+I enjoy building practical projects that combine problem-solving, intelligent systems, and useful applications.
+
+- 🧠 Exploring Generative AI, LLMs, RAG, and Agentic AI.
+- 🐍 Building AI applications primarily with Python.
+- 🔍 Learning to improve retrieval quality and LLM response reliability.
+- 🤖 Experimenting with AI agents, tool calling, and workflow orchestration.
+- 💻 Developing web applications with HTML, CSS, and JavaScript.
+- 🚀 Working toward building reliable, production-ready applications.
 
 ---
 
-🛠️ Tech Stack
+🧰 Tech Stack
 
-💻 Programming & Web
+<div align="center">Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python, HTML, CSS, JavaScript" />
-</p>🧠 AI & Generative AI
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Python, HTML, CSS, JavaScript"/>AI & LLM Development
 
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square" />
-</p>⚙️ Tools & Frameworks
+<img src="https://img.shields.io/badge/Generative_AI-0F766E?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI_Agents-6D28D9?style=flat-square" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>Frameworks & Tools
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>---
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></div>---
 
 🚀 Featured Projects
 
-🏍️ 01. Bike Buddy — AI Bike Troubleshooting Assistant
+🏍️ 01 · Bike Buddy
 
-Your AI companion for understanding and troubleshooting common bike problems without immediately visiting a mechanic.
+AI-powered bike troubleshooting assistant
 
-- 🔧 Helps users explore common bike issues and possible solutions.
-- 🧠 Uses Retrieval-Augmented Generation (RAG) to provide context-aware answers.
-- 📚 Retrieves relevant information to support bike troubleshooting.
-- 💡 Aims to make basic bike maintenance knowledge more accessible.
+A RAG-based assistant designed to help bike owners understand common motorcycle problems and explore possible solutions without immediately needing to visit a mechanic.
 
-Tech: "Python" "Generative AI" "LLMs" "RAG" "Vector Database"
+- 🔧 Helps make basic bike troubleshooting more accessible.
+- 📚 Retrieves relevant information for bike-related questions.
+- 💬 Uses a knowledge base to provide context-aware answers.
+- 🏍️ Focuses on everyday bike problems and maintenance guidance.
 
-🔗 "View Bike Buddy Repository" (YOUR_BIKE_BUDDY_GITHUB_REPO_LINK)
+Core concepts: "Python" · "RAG" · "LLMs" · "Vector Search"
+
+🔗 "Explore Bike Buddy →" (https://github.com/aalu-leloo/my_bike_buddy)
 
 ---
 
-🩺 02. MedGuide AI — Medical Knowledge Assistant
+🧮 02 · MyMathSheets
 
-An educational medical knowledge assistant powered by RAG and AI agent workflows.
+A lightweight, Google Sheets-style spreadsheet
+
+A browser-based spreadsheet application built with plain HTML, CSS, and vanilla JavaScript.
+
+- 📊 Spreadsheet grid with cell selection and keyboard navigation.
+- 🧮 Formula engine supporting cell references and ranges.
+- ➗ Built-in functions including "SUM", "AVERAGE", "COUNT", "MIN", "MAX", "IF", and "ROUND".
+- 💾 Automatically saves data in browser storage.
+- 📥 Exports spreadsheet data to CSV.
+- 🌐 Runs directly in a modern web browser.
+
+Tech: "HTML" · "CSS" · "JavaScript" · "LocalStorage"
+
+🔗 "Explore MyMathSheets →" (https://github.com/aalu-leloo/mymathsheets)
+
+---
+
+🩺 03 · MedGuide AI
+
+Medical knowledge assistant using RAG and agent workflows
+
+An educational AI assistant combining retrieval-augmented generation with agent-based workflows to answer medical knowledge questions.
 
 - 📚 Retrieval-augmented question answering.
-- 🔄 LangGraph-based workflow orchestration.
-- 🧠 Gemini and Pinecone integration.
+- 🔄 Workflow orchestration using LangGraph.
+- 🧠 Integration with Gemini and Pinecone.
 - ⚡ FastAPI backend.
 - 💬 Conversational memory and additional interaction features.
 
-Tech: "Python" "RAG" "LangGraph" "Gemini" "Pinecone" "FastAPI"
+Tech: "Python" · "RAG" · "LangGraph" · "Gemini" · "Pinecone" · "FastAPI"
 
-🔗 "View MedGuide AI Repository" (https://github.com/aalu-leloo/medical-agentic-chatbot)
+🔗 "Explore MedGuide AI →" (https://github.com/aalu-leloo/medical-agentic-chatbot)
 
-Note: This project is for educational purposes and is not a substitute for professional medical advice.
+Educational project only; not a substitute for professional medical advice.
 
 ---
 
-🤖 03. Gemini AI Agent — Tool-Using AI Assistant
+🤖 04 · Gemini AI Agent
 
-A Python-based AI agent that uses tools and generates structured responses.
+A Python agent that uses tools to complete tasks
+
+An AI agent project exploring how language models can interact with tools to handle tasks beyond ordinary text generation.
 
 - 🧰 Tool-calling workflows.
 - 🌦️ Weather lookup functionality.
 - ⚙️ Command-execution tools.
 - 🗂️ Conversation history.
-- ✅ Pydantic-based structured output validation.
+- ✅ Structured output validation using Pydantic.
 
-Tech: "Python" "Gemini" "Pydantic" "AI Agents"
+Tech: "Python" · "Gemini" · "Pydantic" · "AI Agents"
 
-🔗 "View Gemini AI Agent Repository" (https://github.com/aalu-leloo/my-first-ai-agent)
+🔗 "Explore Gemini AI Agent →" (https://github.com/aalu-leloo/my-first-ai-agent)
 
 ---
 
-📊 GitHub Statistics
+🌱 What I'm Learning
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=aalu-leloo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalu-leloo&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" /><br/><img src="https://streak-stats.demolab.com?user=aalu-leloo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /></div>---
-
-🌱 Currently Learning
-
-- 🔍 Advanced Retrieval-Augmented Generation.
-- 🗄️ Embeddings, vector databases, and retrieval optimization.
-- 🤖 Agentic AI and multi-step tool-calling workflows.
-- 🧪 AI application evaluation and testing.
-- 🚀 Deploying and improving production-ready AI applications.
+- Advanced RAG: Chunking, retrieval strategies, reranking, and answer relevance.
+- Vector Search: Embeddings, vector databases, and semantic retrieval.
+- Agentic AI: Tool calling, workflow orchestration, and multi-step execution.
+- Production AI: API development, evaluation, testing, and deployment.
+- Reliable LLM Systems: Improving response quality and reducing hallucinations.
 
 ---
 
 🤝 Let's Connect
 
-I'm always interested in AI projects, collaboration, and opportunities to learn and grow.
+<div align="center">I'm open to connecting with fellow developers, discussing AI projects, and exploring internship opportunities.
 
-<div align="center"><a href="https://github.com/aalu-leloo">
-<img src="https://img.shields.io/badge/GitHub-aalu--leloo-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+<br/><a href="mailto:piyushsankhyan5@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Piyush"/>
+</a><a href="https://www.instagram.com/piyush.sankhyan/">
+<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile"/>
+</a><a href="https://github.com/aalu-leloo">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a><br/><br/>
 
-💡 Learn · Build · Experiment · Improve
+Build thoughtfully. Learn continuously. Ship useful software.
 
 </div>
